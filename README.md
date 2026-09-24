@@ -166,39 +166,6 @@ The main Jupyter Notebook containing the complete data analysis, preprocessing, 
 
 The customer dataset used for the analysis.
 
-## 🚀 How to Run the Project
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/SmartCart.git
-```
-
-### 2. Open the project folder
-
-```bash
-cd SmartCart
-```
-
-### 3. Install the required libraries
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn kneed
-```
-
-### 4. Open the notebook
-
-```bash
-jupyter notebook
-```
-
-Then open:
-
-```text
-smartcart.ipynb
-```
-
-Make sure `smartcart_customers.csv` is kept in the same folder as the notebook.
 
 ## 🎯 Project Objective
 
